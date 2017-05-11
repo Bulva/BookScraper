@@ -1,0 +1,1 @@
+BookScraper is a Python library that parser information about books from czech book servers (databazeknih.cz, cbdb.cz)
