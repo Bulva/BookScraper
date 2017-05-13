@@ -3,4 +3,3 @@ class Comment:
         self.user = user
         self.text = text
         self.date = date
-        self.rating = rating
