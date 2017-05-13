@@ -6,3 +6,8 @@ from bookscraper.parsers import DatabazeKnih
 parser = DatabazeKnih()
 link = parser.search('ydris')  # Name of the book
 {% endhighlight %}
+
+```python
+s = "Python syntax highlighting"
+print s
+```
